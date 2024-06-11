@@ -1,3 +1,5 @@
+URL:  cookie-clicker.lovestoblog.com
+
 php, html, css, js
 
 Projek Cookie Clicker
